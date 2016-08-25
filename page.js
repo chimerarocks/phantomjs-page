@@ -4,7 +4,7 @@
 
 import {EventEmitter} from 'events'
 import Webpage from 'webpage'
-import click from '../lib/click'
+import click from 'lib/click'
 
 export default class Page extends EventEmitter {
     constructor() {

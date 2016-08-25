@@ -1,0 +1,25 @@
+{
+  "name": "phantomjs-page-event",
+  "version": "0.0.1",
+  "description": "A webpage of phantomjs implementation usign events.",
+  "main": "page.js",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chimerarocks/phantomjs-page.git"
+  },
+  "keywords": [
+    "phantomjs",
+    "event",
+    "webpage",
+    "page"
+  ],
+  "author": "João Pedro <joaopedrodslv@gmail.com> (https://github.com/chimerarocks)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chimerarocks/phantomjs-page/issues"
+  },
+  "homepage": "https://github.com/chimerarocks/phantomjs-page#readme"
+}
